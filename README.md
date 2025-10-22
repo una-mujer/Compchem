@@ -4,6 +4,4 @@ Our team at [Compchem](https://compchem.co/) is dedicated to addressing the glob
 ## Tools & Libraries
 - Python 3.x  
 - ASE (Atomic Simulation Environment)  
-- PySCF / Gaussian (for DFT calculations)  
-- RDKit (for molecular manipulation and descriptors)  
 - Matplotlib / Seaborn (for visualization)  
